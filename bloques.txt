@@ -2,3 +2,6 @@ Dirt
 Bedrock
 Cobblestone
 Sand
+PISTON
+STONE
+TERRACOTA
