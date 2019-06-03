@@ -2,4 +2,5 @@ Enemigo5
 Enemigo2
 Enemigo3
 Aldeano1
-BichoRaro2
+Bichoraro1
+Bichoraro2
